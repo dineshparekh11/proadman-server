@@ -38,7 +38,7 @@ textarea.form-control:focus {
 }
 
 img {
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .label-default {
@@ -176,7 +176,7 @@ img {
     display: block;
     padding: 10px 25px;
     font-family: 'Pacifico', cursive;
-    font-size: 1.5em;
+    font-size: 1em;
     text-align: left;
     background-color: #26b2ad;
 }
@@ -328,7 +328,7 @@ img {
 }
 
 .btn-special {
-    background-color: #f81280;
+    background-color: #2ea6aa;
     color: #fff;
     font-size: 1.5em;
     font-weight: lighter;
@@ -702,7 +702,7 @@ img {
 }
 
 .page-title-section>h1 {
-    height: 50px;
+    height: 20px;
 }
 
 .page-title-section .btn.btn-primary {
@@ -883,7 +883,7 @@ img {
 .hug-hero .left-side h1 {
     font-family: 'parmapetitregular';
     font-size: 7em;
-    text-transform: uppercase;
+    text-transform: standard;
     color: #26b2ad;
     line-height: .9;
 }
